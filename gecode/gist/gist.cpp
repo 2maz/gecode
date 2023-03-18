@@ -32,7 +32,7 @@
  */
 
 #include <cstdlib>
-#include <QtGui>
+#include <QtWidgets>
 
 #include <gecode/gist.hh>
 #include <gecode/gist/textoutput.hh>

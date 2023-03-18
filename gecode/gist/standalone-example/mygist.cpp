@@ -31,7 +31,7 @@
  *
  */
 
-#include <QtGui>
+#include <QtWidgets>
 
 #include <gecode/int.hh>
 #include <gecode/gist/qtgist.hh>
