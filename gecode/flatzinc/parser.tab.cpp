@@ -523,7 +523,7 @@ namespace Gecode { namespace FlatZinc {
 #  endif
 # endif
 
-#include "parser.tab.hpp"
+#include "gecode/flatzinc/parser.tab.hpp"
 /* Symbol kind.  */
 enum yysymbol_kind_t
 {
